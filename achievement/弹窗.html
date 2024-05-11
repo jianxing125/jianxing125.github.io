@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="弹窗页面.css">
+    </head>
+    <body>
+
+        <div class="弹窗">
+
+            <button id="关闭">&times;</button>
+            <h1>2023旅行日记</h1>
+            <p> 点击下方链接了解更多
+                点击下方链接了解更多
+                点击下方链接了解更多
+                点击下方链接了解更多
+            </p>
+
+            <a href="#">了解更多</a>
+      </div>
+      <script>
+                window.addEventListener("load", function(){
+                    setTimeout(
+                        function open(event){
+                            document.querySelector(".弹窗").style.display = "flex";
+                        },
+                        500
+                    )
+                });
+
+               document.querySelector("#关闭").addEventListener("click", function(){
+                document.querySelector(".弹窗").style.display = "none";
+               });
+        </script> 
+    </body>
+</html> 
