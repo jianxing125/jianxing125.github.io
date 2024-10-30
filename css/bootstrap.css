@@ -1329,12 +1329,12 @@ mark,
   text-indent: 2ch;
   line-height: 200%;
 }
-.text-pp {
+/* .text-pp {
   font-size: 20px;
   color: #fc0000;
   text-indent: 2ch;
   line-height: 200%;
-}
+} */
 .text-primary {
   color: #337ab7;
 }
