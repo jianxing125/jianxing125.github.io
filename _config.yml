@@ -1,5 +1,5 @@
 # Site settings
-title: 古恒宇研究员主页
+title: 古恒宇研究员的主页
 email: hygu@nju.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
