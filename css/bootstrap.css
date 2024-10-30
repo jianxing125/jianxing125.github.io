@@ -1325,8 +1325,7 @@ mark,
 }
 .text-muted {
   font-size: 10px;
-  /* color: #777; */
-  color: #ff0000;
+  color: #777;
   text-indent: 2ch;
   line-height: 200%;
 }
