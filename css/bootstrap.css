@@ -1325,6 +1325,7 @@ mark,
 }
 .text-muted {
   color: #777;
+  text-indent: 2ch;
 }
 .text-primary {
   color: #337ab7;
