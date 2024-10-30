@@ -1324,6 +1324,7 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
+  font-size: small;
   color: #777;
   text-indent: 2ch;
   line-height: 200%;
