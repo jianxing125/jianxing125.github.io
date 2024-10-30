@@ -1326,7 +1326,7 @@ mark,
 .text-muted {
   color: #777;
   text-indent: 2ch;
-  line-height: 22px;
+  line-height: 150%;
 }
 .text-primary {
   color: #337ab7;
